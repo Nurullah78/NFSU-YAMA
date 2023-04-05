@@ -1,0 +1,23 @@
+=                                                                           
+= ==========================                                                
+= = NFSU Language Selector =                                                
+= ==========================                                                
+=                                                                           
+= info:                                                                     
+= ----                                                                      
+= This little tool can change the language of Need for Speed Underground.   
+= Just select the language that u want in the combobox below and press     
+= the save button to make the changes.                                      
+= No changes are being made to any of the Need for Speed Underground files, 
+= it's just a registry change.                                              
+=                                                                           
+= Creator:                                                                  
+= --------                                                                  
+= Willems Davy aka Joyrider                                                 
+= Willems Soft 2003                                                         
+= Http://www.willemssoft.be                                                 
+=                                                                          
+=
+= Cheers to the people @ #nfsu & #nfs-chat @ quakenet
+=
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

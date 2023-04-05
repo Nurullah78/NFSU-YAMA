@@ -1,0 +1,3 @@
+-ÖNEMLİ UYARI-
+Kuruluma başlamadan önce oyunun kurulu olduğu konumdaki '...\Global\GLOBALA.BUN' + '...\Languages\LanguageTextures.bin' + '...\Languages\German.bin' dosyalarının yedeklerini mutlaka alın.
+
