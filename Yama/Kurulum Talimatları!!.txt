@@ -1,3 +1,13 @@
--ÖNEMLİ UYARI-
+  --ÖNEMLİ UYARI--
 Kuruluma başlamadan önce oyunun kurulu olduğu konumdaki '...\Global\GLOBALA.BUN' + '...\Languages\LanguageTextures.bin' + '...\Languages\German.bin' dosyalarının yedeklerini mutlaka alın.
 
+   --Kurulum--
+1) Oyunun kurulu olduğu dosya konumunu açın.
+2) İndirdiğiniz 'Yama' klasörü içerisindeki 'Global' ve 'Languages' klasörlerini kopyalayıp doğrudan oyunun dosya konumuna atınız.
+3) Gelen uyarıda 'Hedefteki dosyaları değiştir' seçeneğine tıklayarak işlemi bitirin.
+4) 'Yama' klasöründeki 'NFS Language Changer' klasörünün içindeki exe dosyasını açın.
+5) Açılan uygulamada dil olarak 'German' dilini seçin ve 'Save Language' butonuna tıklayın.
+6) Artık oyununuz Türkçe oldu :) İyi oyunlar dilerim.
+
+--Yama Yapımcısı--
+     HyDroN
